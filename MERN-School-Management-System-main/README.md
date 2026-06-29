@@ -165,25 +165,7 @@ MongoDB Atlas
 Replace the connection string in .env
 ```
 
----
 
-## Screenshots
-
-Add screenshots here.
-
-### Login
-
-![Login](screenshots/login.png)
-
-### Admin Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Student Management
-
-![Students](screenshots/students.png)
-
----
 
 ## Future Improvements
 
